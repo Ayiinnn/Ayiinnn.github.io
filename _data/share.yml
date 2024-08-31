@@ -18,13 +18,13 @@ platforms:
      icon: "fab fa-weibo"
      link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
-  - type: QQ
-    icon: "fa-brands fa-qq"
-    link: "mqqapi://share/to_fri?src_type=web&version=1&file_type=news&title=TITLE&url=URL"
+  #- type: QQ
+  #  icon: "fa-brands fa-qq"
+  #  link: "mqqapi://share/to_fri?src_type=web&version=1&file_type=news&title=TITLE&url=URL"
 
-   - type: Linkedin
-    icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+  #- type: Linkedin
+  #  icon: "fab fa-linkedin"
+  #  link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   
   #
   # - type: Mastodon
