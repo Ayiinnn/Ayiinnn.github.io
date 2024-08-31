@@ -24,9 +24,9 @@ platforms:
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
     
-  - type: QQ
-    icon: "fa-brands fa-qq"
-    link: "https://connect.qq.com/widget/shareqq/index.html?title=TITLE&url=URL"
+  - type: Douban
+    icon: "fa-sharp fa-regular fa-circle-nodes"
+    link: "https://www.douban.com/share/service?title=TITLE&href=URL"
 
   #
   # - type: Mastodon
