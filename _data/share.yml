@@ -26,7 +26,7 @@ platforms:
     
   - type: Wechat
     icon: "fa-brands fa-weixin"
-    link: "example.com"
+    link: "sign.png"
 
   #
   # - type: Mastodon
