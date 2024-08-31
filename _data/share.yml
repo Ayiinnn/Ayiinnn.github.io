@@ -19,7 +19,7 @@ platforms:
      link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
   - type: WeChat
-    icon: "fab fa-weixin"
+    icon: "fa-brands fa-weixin"
     link: "weixin://dl/moments?url=URL&text=TITLE"
 
   - type: QQ
