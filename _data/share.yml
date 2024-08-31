@@ -23,6 +23,11 @@ platforms:
   - type: Weibo
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
+    
+  - type: QQ
+    icon: "fa-brands fa-qq"
+    link: mqqapi://share/to_fri?src_type=web&version=1&file_type=news&title=TITLE&url=URL
+
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"
